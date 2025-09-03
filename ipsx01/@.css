@@ -52,7 +52,7 @@ html {
     height: 40px;
     border-radius: 50%;
     margin-right: 10px;
-    background-image: url("avatar.png");
+    background-image: url("https://negremlin.github.io/assets/avatar.png");
     background-position: center;
     background-size: contain;
     display: inline-block;
@@ -94,4 +94,5 @@ html {
 
 .info_section > span {
     float: right;
+
 }
